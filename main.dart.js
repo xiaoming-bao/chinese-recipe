@@ -81719,7 +81719,7 @@ o=q.w
 o===$&&A.a()
 s=A.ava(p,new A.iw(4,A.wl(new A.aB(30,30)),B.kS),p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Find a recipe",p,p,p,p,p,p,p,p,p,p,A.mJ(B.my,p),p,p,p,p,p,p,p,p,p,p,p)
 r=q.a.d?A.b([A.lx(B.k5,new A.agQ(a),p),A.lx(B.Pk,new A.agR(a),p),A.lx(B.Pj,new A.agS(a),p)],t.p):p
-return A.ap4(r,new A.LM(n,B.KN,p),new A.bh(B.aw,A.l2(A.mH(p,new A.xY(A.aHY(p,p,new A.we("../../logo.png",p,p)),B.zk,p),B.aj,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.agT(a),p,p,p),B.c8,p,p,p),p),150,new A.Bo(o,s,B.y6,B.xM,B.xN,new A.agU(m,l),new A.agV(m,l,a),!0,p),150)}}
+return A.ap4(r,new A.LM(n,B.KN,p),new A.bh(B.aw,A.l2(A.mH(p,new A.xY(A.aHY(p,p,new A.we("images/logo.png",p,p)),B.zk,p),B.aj,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.agT(a),p,p,p),B.c8,p,p,p),p),150,new A.Bo(o,s,B.y6,B.xM,B.xN,new A.agU(m,l),new A.agV(m,l,a),!0,p),150)}}
 A.agP.prototype={
 $1(a){var s,r,q=this.a.w
 q===$&&A.a()
